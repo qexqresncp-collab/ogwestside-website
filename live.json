@@ -1,5 +1,13 @@
+<<<<<<< HEAD
 {
   "live": false,
   "channel": "0gwestside",
   "started_at": null
 }
+=======
+{
+  "live": false,
+  "channel": "0gwestside",
+  "started_at": null
+}
+>>>>>>> 336f8e565d92487d7c330c7c23a0c486779941df
